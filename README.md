@@ -2,13 +2,9 @@
 
 Run me here! :  https://roobynooby.github.io/steel-storm/ 
 
-A complete browser-based, single-player tank game. Your tank is green. Survive increasingly difficult waves of enemy tanks, take cover behind obstacles, and collect power-ups.
+A complete browser-based, single-player tank game
 
-**No installation, frameworks, build step, or server required.** All CSS, HTML, JavaScript, graphics and audio are contained in `index.html`.
-
-## Play locally
-
-Double-click `index.html` to open it in a modern browser.
+All CSS, HTML, JavaScript, graphics and audio are contained in `index.html`.
 
 ## Controls
 
@@ -26,13 +22,4 @@ Double-click `index.html` to open it in a modern browser.
 - **Triple shot:** shoot three bullets for 12 seconds
 - **Overdrive:** movement speed +45% for 10 seconds
 
-## Publish on GitHub Pages
 
-1. On GitHub, create a new **public** repository, e.g. `steel-storm`.
-2. Choose **Add file → Upload files**, and upload `index.html` (and optionally this README) to the repository root.
-3. **Commit changes**.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**; set branch to **main** and folder to **/(root)**, then **Save**.
-6. After GitHub Pages deploys, visit `https://YOUR-USERNAME.github.io/steel-storm/` (change the username and repo name to yours).
-
-This is a static single-player game; a GitHub Pages site cannot directly host a multiplayer game server.
